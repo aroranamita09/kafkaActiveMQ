@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: maintec
+Build-Jdk: 11.0.2
+Implementation-Title: rabbitMQproducerr
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/rabbitMQproduc
+ err/
+Created-By: Maven Integration for Eclipse
+
